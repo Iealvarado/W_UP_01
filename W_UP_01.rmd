@@ -81,5 +81,9 @@ The P-value is 0.000009421 < 0.05 so we reject $H_O$
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+In conclusion skilled position can do more pushups that line positions within 2 minutes . We reject $H_O$ because P-value is 0.000009421 which is smaller that P<0.05
+
 
